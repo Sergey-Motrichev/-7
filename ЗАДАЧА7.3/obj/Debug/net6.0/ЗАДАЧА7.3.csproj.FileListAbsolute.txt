@@ -1,0 +1,15 @@
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.csproj.AssemblyReference.cache
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.AssemblyInfoInputs.cache
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.AssemblyInfo.cs
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\bin\Debug\net6.0\ЗАДАЧА7.3.exe
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\bin\Debug\net6.0\ЗАДАЧА7.3.deps.json
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\bin\Debug\net6.0\ЗАДАЧА7.3.runtimeconfig.json
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\bin\Debug\net6.0\ЗАДАЧА7.3.dll
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\bin\Debug\net6.0\ЗАДАЧА7.3.pdb
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.dll
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\refint\ЗАДАЧА7.3.dll
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.pdb
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ЗАДАЧА7.3.genruntimeconfig.cache
+C:\Users\сергей\Desktop\CЕМИНАР7 С#\ЗАДАЧА7.3\obj\Debug\net6.0\ref\ЗАДАЧА7.3.dll
